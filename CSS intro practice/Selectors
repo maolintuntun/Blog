@@ -1,0 +1,10 @@
+7 kinds of selectors: 
+
+li
+.hello
+#name
+*
+li a 
+h4 + ul
+a[href=" achor "]
+li: nth-of-type(2)
