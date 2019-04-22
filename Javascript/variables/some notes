@@ -12,11 +12,24 @@ Five primitive datatypes
    false
    
 4.null and undefined
-
+*****************************************************************
 double quotation marks
 "I can't do it"  correct
 'I can't do it'  wrong
 "I can't do it'  wrong
-
+*******************************************************************
 if we want to put "" in "" , use \"
 "she said \"good bye!\"" instead of "she said "goodbye!""
+********************************************************************
+"myname".length = 6
+"my name".length =7
+"Beatles"[0] = "B"
+"The Beatles"[4]="B"
+*******************************************************************
+How to define variables
+
+var name = "Rusty"   （then this variable is "Rusty"）
+"Hello there "+name = "Hello there Rusty"
+
+var isAdorable = "yu" (camelcase 驼峰命名）
+
