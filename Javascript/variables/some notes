@@ -1,0 +1,22 @@
+Five primitive datatypes
+1.number
+  4 whole number
+  4.5 fractional number
+  -10 negative number
+  
+2.strings
+   "Hello"
+   "43"
+3.Booleans
+   true 
+   false
+   
+4.null and undefined
+
+double quotation marks
+"I can't do it"  correct
+'I can't do it'  wrong
+"I can't do it'  wrong
+
+if we want to put "" in "" , use \"
+"she said \"good bye!\"" instead of "she said "goodbye!""
