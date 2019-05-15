@@ -1,0 +1,32 @@
+Three operator
+
+&& AND
+|| OR
+! NOT
+
+What is  === ? " === "是严格运算符 " == "是相等运算符 尽量使用 === 避免出错
+
+!"hello"
+false
+
+!!"hello"
+true
+
+!!""
+false
+
+!!null
+false
+
+!!0
+false
+
+!!"0"
+true
+
+!!NaN
+false
+
+!!-1
+true
+
