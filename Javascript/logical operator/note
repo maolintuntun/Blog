@@ -6,6 +6,15 @@ Three operator
 
 What is  === ? " === "是严格运算符 " == "是相等运算符 尽量使用 === 避免出错
 
+Falsy Values:
+1. false
+2. 0
+3. ""
+4. null
+5. undefined
+6. NaN
+*********************************************************
+Example 1:
 !"hello"
 false
 
@@ -29,4 +38,11 @@ false
 
 !!-1
 true
+***************************
+Example2:
+var str = ""
+var msg = "haha!"
+var isFunny = "false"
+!(( str || msg ) && isFunny)
+false
 
