@@ -4,7 +4,10 @@ Three operator
 || OR
 ! NOT
 
-What is  === ? " === "是严格运算符 " == "是相等运算符 尽量使用 === 避免出错
+What is  === ?
+" === "是严格运算符 triple equal it is strict of type 1 === 1
+" == "是相等运算符 double equal it doesn't care about type. "1"==1
+  尽量使用 === 避免出错
 
 Falsy Values:
 1. false
