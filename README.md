@@ -1,1 +1,1 @@
-# Blog
+# Blog web application
