@@ -1,0 +1,28 @@
+create whileloop.html
+create whileloop.js
+************************************************
+in js file, 
+
+1. Print number
+var count = 1;
+
+while(count < 20){
+	console.log("count is: " + count);
+	count+=2;
+}
+
+*************************************************
+2. Print word
+var str = "hello";
+var count = 0;
+
+while(count < str.length) {
+	console.log(str[count]);
+	count++;
+}
+
+//"h"
+//"e"
+//"l"
+//"l"
+//"o"
