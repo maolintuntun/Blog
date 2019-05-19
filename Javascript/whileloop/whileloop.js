@@ -24,7 +24,8 @@ while( a < 41 ){
 var c = 300;
 
 while( c<334 ){
-	if( c % 2 !== 0){  //important to judge if it is odd
+	//important!!! to judge if it is odd this is not c%2 === 1
+	if( c % 2 !== 0){  
 		console.log(c);
 	
 	}
