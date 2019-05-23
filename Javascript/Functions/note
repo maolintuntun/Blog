@@ -1,1 +1,13 @@
 How to create and what to use about functions
+
+
+Arguments
+
+Often we write functions that take inputs
+function square(num){
+   console.log(num*num);
+}
+
+We call square and pass in a value
+square(10); 
+square(3);
